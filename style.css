@@ -912,27 +912,27 @@ hr {
     font-weight: 300;
 }
 
-.doo {
-    left: -4px;
+.cant  {
+    left: 7px;
     font-size: 34px;
     font-family: "poppins";
     position: relative;
     top: -10px;
+    color: azure;
     font-weight: 400;
 }
 
 .see {
     position: relative;
     font-size: 29px;
-    left: -15px;
+    left: -3px;
     top: 7px;
 }
 
 .too {
-    position: relative;
-    position: relative;
+  position: relative;
     font-size: 28px;
-    left: -26px;
+    left: -15px;
     top: 7px;
 }
 
